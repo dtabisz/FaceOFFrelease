@@ -19,3 +19,7 @@ pip install -r requirements.txt
 3 to run the app:
 
 python FaceOFF-1.0.py
+
+or for newer version
+
+pyhton FaceOFF-1.5.py
